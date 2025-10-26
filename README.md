@@ -35,6 +35,4 @@ Atualmente estudando **Python**, **APIs**, e **desenvolvimento de bots** — sem
 💌 [LinkedIn](https://www.linkedin.com/in/kivia-ellen)  
 📧 kiviaellen2018@gmail.com 
 
----
 
-<p align="center">💚 “CICLIA entende e CICLIA atende.” 💚</p>
